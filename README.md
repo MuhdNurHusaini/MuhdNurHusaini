@@ -1,4 +1,4 @@
-![Header](/home/gengkix/Downloads/github-header-image.png)
+![MasterHead](https://teeltechcanada.com/2015/wp-content/uploads/2017/07/hacker-banner.jpg)
 <h1 align="center">Hi 👋, I'm Muhammad Nur Husaini</h1>
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
 
