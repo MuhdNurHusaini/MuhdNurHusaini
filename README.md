@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **husainirudin00@gmail.com**
 
-<h3 align="left">My Side Project:</h3>
+<h3 align="left">My Project:</h3>
 <p>
 1.<a href="https://jijcleaning.com.my"> https://jijcleaning.com.my  </a> (WordPress)
 </p>
