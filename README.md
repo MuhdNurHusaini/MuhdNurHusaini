@@ -1,6 +1,6 @@
 ![MasterHead](https://teeltechcanada.com/2015/wp-content/uploads/2017/07/hacker-banner.jpg)
 <h1 align="center">Hi 👋, I'm Muhammad Nur Husaini</h1>
-<h3 align="center">A passionate frontend developer from Malaysia</h3>
+<h3 align="center">A passionate Web developer from Malaysia</h3>
 
 - 🌱 I’m currently learning **Linux**
 
