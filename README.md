@@ -2,9 +2,12 @@
 <h1 align="center">Hi 👋, I'm Muhammad Nur Husaini</h1>
 <h3 align="center">A passionate Web developer from Malaysia</h3>
 
+- 🔭 I’m currently working at **Mesiniaga Berhad**
+
 - 🌱 I’m currently learning **Linux**
 
 - 📫 How to reach me **husainirudin00@gmail.com**
+<hr>
 
 <h3 align="left">My Project:</h3>
 <p>
@@ -15,6 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhdnurhusaini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhdnurhusaini" height="30" width="40" /></a>
+</p>
+<a href="https://www.facebook.com/husaini.njsg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhd nur husaini" height="30" width="40" /></a>
 </p>
 <hr>
 
