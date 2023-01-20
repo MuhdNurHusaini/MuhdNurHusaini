@@ -15,6 +15,9 @@
 </p>
 <p>
 2.<a> PC Tech E-Commerce</a> (Android App)
+  <div>
+    <img src="https://media.giphy.com/media/557KoSZWACQP7vehnL/giphy.gif" width="50%">
+  </div>
 </p>
 <hr>
 
