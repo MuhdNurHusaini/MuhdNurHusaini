@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Nur Husaini</h1>
 <h3 align="center">A passionate Web developer from Malaysia</h3>
 
-- 🔭 I’m currently working at **Mesiniaga Berhad**
+- 🔭 I’m currently working at **Weststar Engineering Sdn Bhd**
 
 - 🌱 I’m currently learning **Linux**
 
